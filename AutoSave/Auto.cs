@@ -3,6 +3,7 @@ using Rocket.Core.Plugins;
 using System;
 using Rocket.Unturned.Chat;
 using SDG.Unturned;
+using UnityEngine;
 
 namespace AutoSave
 {
@@ -12,6 +13,7 @@ namespace AutoSave
         {
             Logger.LogWarning("####################################");
             Logger.LogWarning("#            AutoSave              #");
+            Logger.LogWarning("#              v 1.1               #");
             Logger.LogWarning("#          QQ:2946491890           #");
             Logger.LogWarning("#          SmallGarfield           #");
             Logger.LogWarning("####################################");
@@ -40,7 +42,7 @@ namespace AutoSave
             {
                 if (!msgYorN)
                 {
-                    UnturnedChat.Say(Configuration.Instance.SaveMsg);
+                    UnturnedChat.Say(Configuration.Instance.SaveMsg, UnturnedChat.GetColorFromName(Configuration.Instance.MsgColor, Color.green));
                     msgYorN = true;
                 }
                 SaveManager.save();
