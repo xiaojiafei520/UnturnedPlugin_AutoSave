@@ -1,0 +1,14 @@
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\AutoSave.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\AutoSave.pdb
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\Assembly-CSharp-firstpass.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\Assembly-CSharp.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\Rocket.API.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\Rocket.Core.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\Rocket.Unturned.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\Uconomy.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\UnityEngine.CoreModule.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\bin\Release\UnityEngine.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\obj\Release\AutoSave.csprojAssemblyReference.cache
+J:\UnturnedPlugin\AutoSave\AutoSave\obj\Release\AutoSave.csproj.CopyComplete
+J:\UnturnedPlugin\AutoSave\AutoSave\obj\Release\AutoSave.dll
+J:\UnturnedPlugin\AutoSave\AutoSave\obj\Release\AutoSave.pdb
